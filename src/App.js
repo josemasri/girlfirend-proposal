@@ -17,7 +17,8 @@ function App() {
           "Me gustan mucho tus locuras",
           "Me encanta que no seas predecible",
           "Y me encantaría poder pasar mucho más tiempo contigo",
-          "Despues de todo esto, quiero preguntarte algo",
+          "Desde que te ví ese jueves en Hoyo 19 no he podido dejar de pensar en tí",
+          "Y por eso este día quiero preguntarte algo",
           "¿Quieres ser mi novia?\n❤❤❤",
         ]}
         typeSpeed={80}
